@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "api key"
 
 messages = []
 messages.append({"role": "system", "content": "Basic GPT."})
